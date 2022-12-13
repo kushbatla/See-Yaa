@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "984608406724",
+    "project_id": "seeyaa-26540",
+    "storage_bucket": "seeyaa-26540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984608406724:android:c3cab8382161b33e4add91",
+        "android_client_info": {
+          "package_name": "com.example.seeyaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984608406724-gcfavm9kpsfn3jrrcdhfcnkd5fd8lti5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seeyaa",
+            "certificate_hash": "d64aedba6f6c515c07f54b295b988307dedefdaf"
+          }
+        },
+        {
+          "client_id": "984608406724-s6sg99jptjvnqaebu57hntk7t9trstvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQk2OnSrlqJKpfvZ1p_-Jmt11jlkOCgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984608406724-s6sg99jptjvnqaebu57hntk7t9trstvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
